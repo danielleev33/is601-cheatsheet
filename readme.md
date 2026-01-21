@@ -17,7 +17,7 @@ Maintained using feature branches (one branch per command) and merged into `main
 | 9 | `less` | Linux | Opens a files for scrollable viewing (doesn't dump it all at once) | Read long files safely; search inside; quit with q |
 | 10 | `grep -R "text" .` | Linux | Searches for a string recursively through files in the current directory | Find where something appears in a project (error, config keys, etc.) |
 | 11 | `git status` | Git | Shows changed files, staging state, and current branch | Prevent "what did I just change?" and avoid committing the wrong stuff |
-| 12 | `git add` | Git | TODO | TODO |
+| 12 | `git add` | Git | Stages selected changes to be committed | Choose exactly what goes into the next snapshot |
 | 13 | `git commit -m "msg"` | Git | TODO | TODO |
 | 14 | `git branch` | Git | TODO | TODO |
 | 15 | `git merge` | Git | TODO | TODO |
