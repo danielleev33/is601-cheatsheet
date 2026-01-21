@@ -13,7 +13,7 @@ Maintained using feature branches (one branch per command) and merged into `main
 | 5 | `cp` | Linux | Copies files or directories | Duplicate files (configs, templates) without retyping |
 | 6 | `mv` | Linux | Moves or renames files/directories | Rename things or relocate files cleanly |
 | 7 | `rm -r` | Linux | Deletes directories and their contents recursively | Remove folders in one shot- use with caution |
-| 8 | `cat` | Linux | TODO | TODO |
+| 8 | `cat` | Linux | Prints a file's contents to the terminal | Quick peek at short files or to chain output into other commands |
 | 9 | `less` | Linux | TODO | TODO |
 | 10 | `grep -R "text" .` | Linux | TODO | TODO |
 | 11 | `git status` | Git | TODO | TODO |
