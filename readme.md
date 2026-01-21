@@ -7,7 +7,7 @@ Maintained using feature branches (one branch per command) and merged into `main
 | # | Command | Category | What it does | Why you use it |
 |---|---------|----------|--------------|----------------|
 | 1 | `pwd` | Linux | Prints the path of current directory | Confirms where you are before running commands |
-| 2 | `ls -la` | Linux | TODO | TODO |
+| 2 | `ls -la` | Linux | Lists files (detailed & hidden) | See permissions/owners and hidden files |
 | 3 | `cd` | Linux | TODO | TODO |
 | 4 | `mkdir` | Linux | TODO | TODO |
 | 5 | `cp` | Linux | TODO | TODO |
