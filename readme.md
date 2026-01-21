@@ -15,7 +15,7 @@ Maintained using feature branches (one branch per command) and merged into `main
 | 7 | `rm -r` | Linux | Deletes directories and their contents recursively | Remove folders in one shot- use with caution |
 | 8 | `cat` | Linux | Prints a file's contents to the terminal | Quick peek at short files or to chain output into other commands |
 | 9 | `less` | Linux | Opens a files for scrollable viewing (doesn't dump it all at once) | Read long files safely; search inside; quit with q |
-| 10 | `grep -R "text" .` | Linux | TODO | TODO |
+| 10 | `grep -R "text" .` | Linux | Searches for a string recursively through files in the current directory | Find where something appears in a project (error, config keys, etc.) |
 | 11 | `git status` | Git | TODO | TODO |
 | 12 | `git add` | Git | TODO | TODO |
 | 13 | `git commit -m "msg"` | Git | TODO | TODO |
