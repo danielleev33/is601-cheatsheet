@@ -9,7 +9,7 @@ Maintained using feature branches (one branch per command) and merged into `main
 | 1 | `pwd` | Linux | Prints the path of current directory | Confirms where you are before running commands |
 | 2 | `ls -la` | Linux | Lists files (detailed & hidden) | See permissions/owners and hidden files |
 | 3 | `cd` | Linux | Changes your current directory | Move into folder you want to work in |
-| 4 | `mkdir` | Linux | TODO | TODO |
+| 4 | `mkdir` | Linux | Creates a new directory | Make project folders to keep work organized |
 | 5 | `cp` | Linux | TODO | TODO |
 | 6 | `mv` | Linux | TODO | TODO |
 | 7 | `rm -r` | Linux | TODO | TODO |
