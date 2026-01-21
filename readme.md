@@ -11,7 +11,7 @@ Maintained using feature branches (one branch per command) and merged into `main
 | 3 | `cd` | Linux | Changes your current directory | Move into folder you want to work in |
 | 4 | `mkdir` | Linux | Creates a new directory | Make project folders to keep work organized |
 | 5 | `cp` | Linux | Copies files or directories | Duplicate files (configs, templates) without retyping |
-| 6 | `mv` | Linux | TODO | TODO |
+| 6 | `mv` | Linux | Moves or renames files/directories | Rename things or relocate files cleanly |
 | 7 | `rm -r` | Linux | TODO | TODO |
 | 8 | `cat` | Linux | TODO | TODO |
 | 9 | `less` | Linux | TODO | TODO |
